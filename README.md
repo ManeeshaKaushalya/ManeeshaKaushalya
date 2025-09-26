@@ -63,18 +63,18 @@ I'm constantly exploring new technologies and methodologies to create innovative
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maneesha2002&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=maneesha2002&theme=react&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManeeshaKaushalya&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManeeshaKaushalya&theme=react&hide_border=false" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maneesha2002&theme=react&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeshaKaushalya&theme=react&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maneesha2002&theme=discord&no-frame=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ManeeshaKaushalya&theme=discord&no-frame=true&margin-w=4&column=6" alt="GitHub Trophies" />
 </div>
 
 ## 💼 Portfolio Highlights
@@ -107,5 +107,5 @@ I'm constantly exploring new technologies and methodologies to create innovative
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maneesha2002&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ManeeshaKaushalya&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
